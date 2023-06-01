@@ -1,7 +1,7 @@
 {
   "name": "reactapp",
   "version": "0.1.0",
-  "homepage": "http://{Mads942n}.github.io/{reactapp}",
+  "homepage": "http://Mads942n.github.io/reactapp",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
