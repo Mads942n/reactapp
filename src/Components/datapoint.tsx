@@ -1,8 +1,8 @@
 import { faEllipsis, faArrowRight } from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React, { useState } from 'react'
 import data from '../Data/DatapointData.json'
 import styles from '../Components/datapoint.module.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 function Datapoint({ datapoint, onUpdate } : any ) {
 
