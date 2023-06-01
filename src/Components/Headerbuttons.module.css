@@ -1,0 +1,9 @@
+.button {
+    background: transparent;
+    border: 0;
+}
+
+.button svg {
+    color: white;
+    height: 2rem;
+}

@@ -1,0 +1,11 @@
+.Menucards__top {
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Menucards__bottom {
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 6rem;
+}
