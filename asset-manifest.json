@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/%7Breactapp%7D/static/css/main.fcae9aca.css",
+    "main.js": "/%7Breactapp%7D/static/js/main.b44d88e2.js",
+    "static/media/usbsettings.svg": "/%7Breactapp%7D/static/media/usbsettings.239c1ad0be65e25031e78b2745e5489e.svg",
+    "static/media/useradmin.svg": "/%7Breactapp%7D/static/media/useradmin.e7b8b7064a6f448ed0ededef8020498d.svg",
+    "static/media/plismaskine.svg": "/%7Breactapp%7D/static/media/plismaskine.6be22119e6f22e64907fb56dd9f11f9d.svg",
+    "static/media/dynamicsettings.svg": "/%7Breactapp%7D/static/media/dynamicsettings.95389d628a7cf4045af764db907cdb23.svg",
+    "index.html": "/%7Breactapp%7D/index.html",
+    "main.fcae9aca.css.map": "/%7Breactapp%7D/static/css/main.fcae9aca.css.map",
+    "main.b44d88e2.js.map": "/%7Breactapp%7D/static/js/main.b44d88e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcae9aca.css",
+    "static/js/main.b44d88e2.js"
+  ]
+}
